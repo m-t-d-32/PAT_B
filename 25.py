@@ -1,3 +1,4 @@
+#PTA超时，牛客网通过。牛客网：https://www.nowcoder.com/questionTerminal/5f44c42fd21a42b8aeb889ab83b17ad0
 def main():
     my_str=input().split()
     begin=int(my_str[0])
